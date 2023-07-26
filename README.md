@@ -9,9 +9,9 @@
 📧 Feel like sending me a virtual pigeon? Drop your bytes at bhatnagar91@gmail.com, and I promise to reply faster than a neural network on steroids! 💨
 
 ## 📚 Recent Projects:
-1. **Gradient Descent From Scratch**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
+1. **Gradient Descent From Scratch using Python**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
 
-2. **Transfer Learning (VGG16 Model Implementation)**: Teaching an old model new tricks! Behold the magic at [this link](https://bit.ly/3RyamVJ) 🐶
+2. **Snake, Water and Gun Game in JavaScript**: Outsmart the computer in the age-old game of Snake, Water, and Gun at [this link](https://github.com/dakshbhatnagar/JS_files/blob/main/snake_water_gun.js) 🐶
 
 3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Witness the artistry at [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar) 🎨
 
