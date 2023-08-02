@@ -11,12 +11,11 @@
 ## 📚 Recent Projects:
 1. **Gradient Descent From Scratch using Python**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
 
-2. **Snake, Water and Gun Game in JavaScript**: Outsmart the computer in the age-old game of Snake, Water, and Gun at [this link](https://github.com/dakshbhatnagar/JS_files/blob/main/snake_water_gun.js) 🐶
+2. **Snake, Water and Gun Game in JavaScript**: Outsmart the computer in the age-old game of Snake, Water, and Gun [here](https://github.com/dakshbhatnagar/JS_files/blob/main/snake_water_gun.js) 🐶
 
 3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Witness the artistry at [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar) 🎨
 
-🤝 So, if you're looking for someone who's not afraid to crunch numbers and crack jokes in equal measure, I'm your guy! Let's connect and conjure up some data magic together! 
-
+🤝 Let's connect and unfold the mysteries that lie underneath the data
 
 Contact Details 
 ✉️ : bhatnagar91@gmail.com
