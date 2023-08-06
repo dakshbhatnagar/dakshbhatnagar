@@ -15,8 +15,12 @@
 
 3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Witness the artistry at [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar) 🎨
 
+4. **Stock Price Prediction App** : The [app](https://stockpredictions.streamlit.app/) allows users to view the predictions of the closing price of specific stocks using the sophisticated statistical ARIMA model.
+
 🤝 Let's connect and unfold the mysteries that lie underneath the data
 
 Contact Details 
+
+🤝 [LinkedIn](https://www.linkedin.com/in/dakshb/)
 
 ✉️ : bhatnagar91@gmail.com
