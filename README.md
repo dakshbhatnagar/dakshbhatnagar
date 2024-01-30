@@ -1,12 +1,10 @@
-🎉 Hey there, data-driven world! It's me, your friendly neighborhood Data Analyst extraordinaire, ready to sprinkle some analytical magic on your organization's data challenges! 
+Daksh Bhatnagar is a highly experienced Data Analyst with a proven track record of success in transforming data into actionable insights. He has a strong technical background, with expertise in a variety of data analysis tools and techniques, including Tableau, Kaggle/Python, and Google Sheets. He is also proficient in SQL and Google AppScript.
 
-💫 I am an experienced and passionate Data Analyst with a track record of delivering actionable insights and data-driven solutions for organizations. With proficiency in SQL, Python, Tableau, MS Excel, Looker, and Google Sheets, I possess a versatile skill set to tackle a wide range of data challenges.
+Daksh has a deep understanding of data analysis principles and methodologies, and he can apply these skills to solve complex problems and make data-driven decisions. He is also a highly effective communicator, and he can present his findings clearly and concisely to both technical and non-technical audiences.
 
-✅ My primary goal is to leverage the power of data to uncover valuable trends and patterns, helping your organization make informed decisions and seize hidden opportunities for success. From data cleansing to exploratory data analysis, I bring a comprehensive set of skills to the table to ensure the accuracy and reliability of the results.
+In his current role as a Data Analyst at QSS Global LLP, Daksh has made significant contributions to the company's success. He has developed a real-time business criticality pipeline using Google Sheets, which has resulted in a 20% increase in data-driven decision-making efficiency. He has also created automated visually engaging data visualizations using Looker, which has led to a 15% improvement in data accessibility and decision-making. Additionally, he has automated repetitive reports and processes through Google AppScript, improving operational efficiency by 30% and reducing manual workloads.
 
-🔥 Collaboration is at the heart of my work ethos, and I believe that working together with your team, we can conquer any data quest that comes our way. I stay up-to-date with the latest industry practices, always eager to adapt and learn, ensuring that the insights I provide are based on the most current trends and methodologies.
-
-💡 I am confident that my analytical prowess, combined with my ability to communicate complex insights in a clear and concise manner, will prove to be an asset to your organization. I am excited about the opportunity to contribute to your data-driven journey and to be part of your team's efforts in achieving success.
+Daksh is a highly motivated and results-oriented individual with a passion for data analysis. He is eager to learn and grow in a challenging data-centric environment, and he is confident that he can make a significant contribution to any organization he joins.
 
 ## 📚 Recent Projects:
 1. **Gradient Descent From Scratch using Python**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
