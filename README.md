@@ -4,7 +4,7 @@ Highly Experienced Data Analyst looking for challenges to help businesses solve 
 
 ---
 
-🔍 **Summary**
+> 🔍 **Summary**
 
 Daksh Bhatnagar is a highly experienced Data Analyst with a proven track record of success in transforming data into actionable insights. He has a strong technical background, with expertise in a variety of data analysis tools and techniques, including Tableau, Kaggle/Python, and Google Sheets. He is also proficient in SQL and Google AppScript.
 
@@ -12,11 +12,11 @@ Daksh has a deep understanding of data analysis principles and methodologies, an
 
 ---
 
-📈 **Recent Projects**
+> 📈 **Recent Projects**
 
 1. **Gradient Descent From Scratch using Python**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
    
-2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here]([https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756]) 
+2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756) 
    
 3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Witness the artistry at [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar) 🎨
    
