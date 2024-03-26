@@ -16,7 +16,7 @@ Daksh has a deep understanding of data analysis principles and methodologies, an
 
 1. **Gradient Descent From Scratch using Python**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
    
-2. **Snake, Water and Gun Game in JavaScript**: Outsmart the computer in the age-old game of Snake, Water, and Gun [here](https://github.com/dakshbhatnagar/JS_files/blob/main/snake_water_gun.js) 🐶
+2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here]([https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756]) 
    
 3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Witness the artistry at [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar) 🎨
    
