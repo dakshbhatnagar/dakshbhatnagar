@@ -28,8 +28,12 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
 
 👨‍💻 **Experience**
 
-In his current role as a Data Analyst at QSS Global LLP, Daksh has made significant contributions to the company's success. He has developed a real-time business criticality pipeline using Google Sheets, which has resulted in a 20% increase in data-driven decision-making efficiency. He has also created automated visually engaging data visualizations using Looker, which has led to a 15% improvement in data accessibility and decision-making, helped in cost reduction by monitoring usage of job portal subscription. Additionally, he has automated repetitive reports and processes through Google AppScript, improving operational efficiency by 30% and reducing manual workloads.
+In his current role as a Data Analyst at QSS Global LLP, I have:
 
+- Developed a real-time business criticality pipeline using Google Sheets, resulting in a 20% increase in data-driven decision-making efficiency.
+- Created automated visually engaging data visualizations using Looker, leading to a 15% improvement in data accessibility and decision-making.
+- Helped in cost reduction by monitoring usage of job portal subscription.
+- Automated repetitive reports and processes through Google AppScript, improving operational efficiency by 30% and reducing manual workloads.
 ---
 
 📧 **Contact Details**
