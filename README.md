@@ -10,10 +10,8 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
   - SQL, Python, GCP, Google Sheets
   - Tableau and Google AppScript.
 
-- Demonstrates deep understanding of data analysis principles and methodologies.
-  - Applies skills effectively to solve complex problems and inform data-driven decisions.
-- Highly effective communicator.
-  - Presents findings clearly and concisely to technical and non-technical audiences alike.
+- Demonstrates deep understanding of data analysis principles and methodologies
+- Highly effective communicator. Presents findings clearly and concisely to technical and non-technical audiences alike.
 ---
 
  📈 **Recent Projects**
