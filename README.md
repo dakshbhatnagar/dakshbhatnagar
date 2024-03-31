@@ -6,10 +6,14 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
 
  🔍 **Summary**
 
-Daksh Bhatnagar is a highly experienced Data Analyst with a proven track record of success in transforming data into actionable insights. He has a strong technical background, with expertise in a variety of data analysis tools and techniques, including Tableau, Kaggle/Python, and Google Sheets. He is also proficient in SQL and Google AppScript.
+- Equipped with a strong technical background. Worked with tools:-
+  - SQL, Python, GCP, Google Sheets
+  - Tableau and Google AppScript.
 
-Daksh has a deep understanding of data analysis principles and methodologies, and he can apply these skills to solve complex problems and make data-driven decisions. He is also a highly effective communicator, and he can present his findings clearly and concisely to both technical and non-technical audiences.
-
+- Demonstrates deep understanding of data analysis principles and methodologies.
+  - Applies skills effectively to solve complex problems and inform data-driven decisions.
+- Highly effective communicator.
+  - Presents findings clearly and concisely to technical and non-technical audiences alike.
 ---
 
  📈 **Recent Projects**
