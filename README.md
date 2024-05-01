@@ -16,7 +16,7 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
 
  📈 **Recent Projects**
 
-1. **Gradient Descent From Scratch using Python**: Taming wild gradients and making them descend like pros! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
+1. **Gradient Descent From Scratch using Python**: Finding gradients and making them descend like a pro! Check it out [here](https://bit.ly/3fwd7JD) 🏔️
    
 2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756) 
    
@@ -28,7 +28,7 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
 
 👨‍💻 **Experience**
 
-In his current role as a Data Analyst at QSS Global LLP, I have:
+In my current role as a Data Analyst at QSS Global LLP, I have:
 
 - Developed a real-time business criticality pipeline using Google Sheets, resulting in a 20% increase in data-driven decision-making efficiency.
 - Created automated visually engaging data visualizations using Looker, leading to a 15% improvement in data accessibility and decision-making.
