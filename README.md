@@ -24,6 +24,8 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
    
 4. **Stock Price Prediction App** : The [app](https://stockpredictions.streamlit.app/) allows users to view the predictions of the closing price of specific stocks using the sophisticated statistical ARIMA model.
 
+5. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
+
 ---
 
 👨‍💻 **Experience**
