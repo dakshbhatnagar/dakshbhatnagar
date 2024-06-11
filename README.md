@@ -33,9 +33,14 @@ Experienced Data Analyst looking for challenges to help businesses solve problem
 In my current role as a Data Analyst at QSS Global LLP, I have:
 
 - Developed a real-time business criticality pipeline using Google Sheets, resulting in a 20% increase in data-driven decision-making efficiency.
-- Created automated visually engaging data visualizations using Looker, leading to a 15% improvement in data accessibility and decision-making.
-- Helped in cost reduction by monitoring usage of job portal subscription.
-- Automated repetitive reports and processes through Google AppScript, improving operational efficiency by 30% and reducing manual workloads.
+- Created automated visually engaging data visualizations using Looker Studio, leading to a 15% improvement in data accessibility and decision-making.
+- Helped in cost reduction by monitoring usage of job portal subscription
+- Automated repetitive reports such as Job Portal Usage, Onboarding, Daily Joining and processes through Google AppScript, improving operational efficiency by 30% and reducing manual workloads.
+- Helped in create MS Word doc file for appraisals which included the steps below:-
+-  Collected the necessary data from various sources and teams
+-  Bring the data in a required format and clean out other irrelevant details
+-  Using these data, created a maintain sheet that would use arrayformulas to calculate values like Joinings in different quarter, Revenue Generated, Leaves taken etc.
+-  Once the main table is populated, headed over to Google Docs to create a template and using Google AppScript to automate the creation of the docs for the respective recruiter and to take a step further classify the Recruiter Docs into the relevant Team Folders (which will then be ready to be shared across as and when required).
 ---
 
 📧 **Contact Details**
