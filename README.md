@@ -1,6 +1,6 @@
 👨‍💼 **Daksh Bhatnagar**
 
-Experienced Data Analyst actively looking for challenges to help businesses solve problems with the help of data.
+Experienced Data Analyst based out of New Delhi actively looking for challenges to help businesses solve problems with the help of data.
 
 ---
 
@@ -8,7 +8,7 @@ Experienced Data Analyst actively looking for challenges to help businesses solv
 
 - Equipped with a strong technical background. Worked with tools:-
   - Google Sheets, MS Excel
-  - Tableau and Looker Studio and Google AppScript
+  - Tableau, Looker Studio; and
   - SQL, Python, Google Appscript
 
 - Demonstrates deep understanding of data analysis principles and methodologies
