@@ -1,31 +1,29 @@
 👨‍💼 **Daksh Bhatnagar**
 
-Experienced Data Analyst based out of New Delhi actively looking for challenges to help businesses solve problems with the help of data.
+Result-oriented Data Analyst based in New Delhi with 1.5+ years of experience, actively seeking new challenges to help businesses solve problems with data.
 
 ---
 
  🔍 **Summary**
 
-- Equipped with a strong technical background. Worked with tools:-
-  - Google Sheets, MS Excel
-  - Tableau, Looker Studio; and
-  - SQL, Python, Google Appscript
-
-- Demonstrates deep understanding of data analysis principles and methodologies
-- Effective communicator and presents findings clearly and concisely to technical and non-technical audiences alike.
+- Solid **technical expertise** across various tools used in Data Analytics.
+- **Collaborative and adaptable**, capable of working effectively with diverse teams to deliver results on time.
+- **Quick learner** who embraces mistakes as opportunities for growth, iterating rapidly to provide effective solutions.
 ---
 
  📈 **Recent Projects**
 
-1. **Gradient Descent From Scratch using Python**: Finding gradients and making them descend like a pro! Check it out [here](https://bit.ly/3fwd7JD) 
    
-2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756) 
+1. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756) 
    
-3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
+2. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
    
-4. **Stock Price Prediction App** : The [app](https://stockpredictions.streamlit.app/) allows users to view the predictions of the closing price of specific stocks using the sophisticated statistical ARIMA model.
+3. **Stock Price Prediction App** : The [app](https://stockpredictions.streamlit.app/) allows users to view the predictions of the closing price of specific stocks using the sophisticated statistical ARIMA model.
 
-5. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
+4. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
+  
+5. **Gradient Descent From Scratch using Python**: Finding gradients and making them descend like a pro! Check it out [here](https://bit.ly/3fwd7JD) 
+
 
 ---
 
@@ -33,15 +31,11 @@ Experienced Data Analyst based out of New Delhi actively looking for challenges 
 
 In my current role as a Data Analyst at QSS Global LLP, I have:
 
-- Developed a real-time business criticality pipeline using Google Sheets, resulting in a 20% increase in data-driven decision-making efficiency.
-- Created automated visually engaging data visualizations using Looker Studio, leading to a 15% improvement in data accessibility and decision-making.
-- Helped in cost reduction by monitoring usage of job portal subscription which cut down the cost by 4000 INR a month leading to saving 68000 INR a year
-- Automated repetitive reports such as Job Portal Usage, Onboarding, Daily Joining and processes through Google AppScript, improving operational efficiency by 30% and reducing manual workloads.
-- Helped in create MS Word doc file for appraisals (using Google AppScript) which included the steps below:-
-  -  Collected the necessary data from various sources and teams
-  -  Bring the data in a required format and clean out other irrelevant details
-  -  Using these data, created a maintain sheet that would use arrayformulas to calculate values like Joinings in different quarter, Revenue Generated, Leaves taken etc.
-  -  Once the main table is populated, headed over to Google Docs to create a template and using Google AppScript to automate the creation of the docs for the respective recruiter and to take a step further classify the Recruiter Docs into the relevant Team Folders (which will then be ready to be shared across as and when required).
+- **Developed** a real-time data pipeline in Google Sheets, boosting decision-making efficiency by 20%.
+- **Created** automated visualizations in Looker Studio, enhancing data accessibility by 15%.
+- **Reduced costs** by 4,000 INR/month through job portal usage monitoring, saving 68,000 INR annually.
+- **Automated** reports like Job Portal Usage and Onboarding, increasing operational efficiency by 30%.
+- **Streamlined appraisal document creation** with Google AppScript, automating data collection, processing, and document generation, organizing them for easy team distribution.
 ---
 
 📧 **Contact Details**
