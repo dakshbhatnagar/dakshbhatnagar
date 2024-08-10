@@ -19,6 +19,9 @@ Result-oriented Data Analyst based in New Delhi with 1.5+ years of experience, a
 
 | **Programming**                | **BI Tools**                  |
 | Python, Google AppScript        | Looker Studio, Tableau       |
+------------------------------------------------------------------
+
+---
 
 
  📈 **Recent Projects**
