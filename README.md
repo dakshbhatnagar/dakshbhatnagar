@@ -16,7 +16,6 @@ Result-oriented Data Analyst based in New Delhi with 1.5+ years of experience, a
 | **Databases**                  | **Spreadsheets**              |
 |--------------------------------|-------------------------------|
 | MySQL, SQLite3                 | MS Excel, Google Sheets       |
-
 | **Programming**                | **BI Tools**                  |
 | Python, Google AppScript        | Looker Studio, Tableau       |
 |---------------------------------|------------------------------|
