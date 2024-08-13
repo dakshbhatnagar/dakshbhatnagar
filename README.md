@@ -29,7 +29,7 @@ Result-oriented Data Analyst based in New Delhi with 1.5+ years of experience, a
    
 3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
    
-4. **SQL Projects on HR Data, Restaurant Data and more** : The [repository][(https://github.com/dakshbhatnagar/SQLProjects) contains SQL Projects on various industries such as HR, Food and Data Jobs to uncover valuable insights. Make your way to it to explore in-depth.
+4. **SQL Projects on HR Data, Restaurant Data and more** : The [repository](https://github.com/dakshbhatnagar/SQLProjects) contains SQL Projects on various industries such as HR, Food and Data Jobs to uncover valuable insights. Make your way to it to explore in-depth.
  
 5. **Olympics Data Analysis and much more using Python**: Find projects on in-depth ARIMA Modelling, Olympics Data Analysis and much more! Check it out [here](https://github.com/dakshbhatnagar/projects) 
 ---
