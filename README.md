@@ -1,6 +1,6 @@
 👨‍💼 **DAKSH BHATNAGAR**
 
-**DATA ANALYST | BI ANALYST | REPORTING ANALYST**
+DATA ANALYST | BI ANALYST | REPORTING ANALYST
 ---
 
  🔍 **Summary**
@@ -14,7 +14,7 @@
 
 - **Databases:** MySQL, SQLite3
 - **Spreadsheets:** Advanced MS Excel, Advanced Google Sheets
-- **Programming:** Python, Google AppScript
+- **Programming:** Python, Pandas, Numpy, Matplotlib, Google AppScript
 - **BI Tools:** Looker Studio, Tableau
 
 ---
@@ -50,9 +50,6 @@ In my current role as a Data Analyst at QSS Global LLP, I have:
 
 📧: bhatnagar91@gmail.com
 
-
-📄 **Resume**
-
-- [Download](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)
-
 ---
+
+Thanks for stopping by. Please feel free to *[Download My Resume](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)*
