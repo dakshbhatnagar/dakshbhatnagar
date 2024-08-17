@@ -1,14 +1,13 @@
 👨‍💼 **Daksh Bhatnagar**
 
-Result-oriented Data Analyst based in New Delhi with 1.5+ years of experience, actively seeking new challenges to help businesses solve problems with data.
-
+DATA ANALYST | BI ANALYST | REPORTING ANALYST
 ---
 
  🔍 **Summary**
 
-- Solid **technical expertise** across various tools used in Data Analytics.
-- **Collaborative and adaptable**, capable of working effectively with diverse teams to deliver results on time.
-- **Quick learner** who embraces mistakes as opportunities for growth, iterating rapidly to provide effective solutions.
+- I specialize in **helping businesses unlock valuable insights** through data analysis and reporting.
+- My work focuses on **delivering actionable insights** that drive informed decisions and implementing automated reporting solutions that save time and reduce costs.
+- With a sound understanding of analytics tools, I’ve spent countless hours **optimizing processes, enhancing data accessibility**, and improving overall efficiency.
 ---
 
 ## 🛠️ Skills
