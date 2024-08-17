@@ -1,4 +1,4 @@
-👨‍💼 **DATA ANALYST | BI ANALYST | REPORTING ANALYST**
+🕵🏼 **DATA ANALYST | BI ANALYST | REPORTING ANALYST**
 
 DAKSH BHATNAGAR
 ---
@@ -27,7 +27,7 @@ DAKSH BHATNAGAR
    
 2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756) 
    
-3. **Tableau Tales**: Unleashing the power of data visualization with Tableau! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
+3. **Tableau Tales**: Using the power of data visualization with Tableau! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
    
 4. **SQL Projects on HR Data, Restaurant Data and more** : The [repository](https://github.com/dakshbhatnagar/SQLProjects) contains SQL Projects on various industries such as HR, Food and Data Jobs to uncover valuable insights. Make your way to it to explore in-depth.
  
@@ -47,7 +47,7 @@ In my current role as a Data Analyst at QSS Global LLP, I have:
   
 ---
 
-📧 **Contact Details**
+📇 **Contact Details**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dakshb/)
 
