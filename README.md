@@ -37,11 +37,13 @@ DATA ANALYST | BI ANALYST | REPORTING ANALYST
 
 In my current role as a Data Analyst at QSS Global LLP, I have:
 
-- **Developed** a real-time data pipeline in Google Sheets, boosting decision-making efficiency by 20%.
-- **Created** automated visualizations in Looker Studio, enhancing data accessibility by 15%.
-- **Reduced costs** by 4,000 INR/month through job portal usage monitoring, saving 68,000 INR annually.
-- **Automated** reports like Job Portal Usage and Onboarding, increasing operational efficiency by 30%.
-- **Streamlined appraisal document creation** with Google AppScript, automating data collection, processing, and document generation, organizing them for easy team distribution.
+- Developed **real-time data pipelines** using Google Sheets, increasing data availability and decision-making efficiency by 20%.
+- Created **engaging visualizations** in Looker Studio, improving data accessibility by 15%.
+- **Reduced subscription costs** by 68,000 INR per month through job portal monitoring, saving 816,000 INR annually.
+- **Automated reporting processes** using Google AppScript and Python, improving operational efficiency and reporting frequency by 30%.
+- Streamlined **appraisal document creation** with AppScript, organizing them for team distribution.
+- Used SQL within Python to connect with the Google Sheets API, calculating incentives for Recruiters, Team Leaders, and Account Managers monthly and quarterly **reducing workload on team members**.
+  
 ---
 
 📧 **Contact Details**
