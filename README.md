@@ -21,6 +21,20 @@ DAKSH BHATNAGAR
 ---
 
 
+👨‍💻 **Experience**
+
+In my current role as a Data Analyst at QSS Global LLP, I have:
+
+- Developed **real-time data pipelines** using Google Sheets, increasing data availability and decision-making efficiency by 20%.
+- Created **engaging visualizations** in Looker Studio, improving data accessibility by 15%.
+- **Reduced subscription costs** by 68,000 INR per month through job portal monitoring, saving 816,000 INR annually.
+- **Automated reporting processes** using Google AppScript and Python, improving operational efficiency and reporting frequency by 30%.
+- Streamlined **appraisal document creation** with AppScript, organizing them for team distribution.
+- Used SQL within Python to connect with the Google Sheets API, calculating incentives for Recruiters, Team Leaders, and Account Managers monthly and quarterly **reducing workload on team members**.
+
+---
+
+
  📈 **Recent Projects**
 
 1. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
@@ -32,18 +46,6 @@ DAKSH BHATNAGAR
 4. **SQL Projects on HR Data, Restaurant Data and more** : The [repository](https://github.com/dakshbhatnagar/SQLProjects) contains SQL Projects on various industries such as HR, Food and Data Jobs to uncover valuable insights. Make your way to it to explore in-depth.
  
 5. **Olympics Data Analysis and much more using Python**: Find projects on in-depth ARIMA Modelling, Olympics Data Analysis and much more! Check it out [here](https://github.com/dakshbhatnagar/projects) 
----
-
-👨‍💻 **Experience**
-
-In my current role as a Data Analyst at QSS Global LLP, I have:
-
-- Developed **real-time data pipelines** using Google Sheets, increasing data availability and decision-making efficiency by 20%.
-- Created **engaging visualizations** in Looker Studio, improving data accessibility by 15%.
-- **Reduced subscription costs** by 68,000 INR per month through job portal monitoring, saving 816,000 INR annually.
-- **Automated reporting processes** using Google AppScript and Python, improving operational efficiency and reporting frequency by 30%.
-- Streamlined **appraisal document creation** with AppScript, organizing them for team distribution.
-- Used SQL within Python to connect with the Google Sheets API, calculating incentives for Recruiters, Team Leaders, and Account Managers monthly and quarterly **reducing workload on team members**.
   
 ---
 
