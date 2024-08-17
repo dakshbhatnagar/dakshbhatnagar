@@ -1,6 +1,6 @@
-👨‍💼 **Daksh Bhatnagar**
+👨‍💼 **DAKSH BHATNAGAR**
 
-DATA ANALYST | BI ANALYST | REPORTING ANALYST
+**DATA ANALYST | BI ANALYST | REPORTING ANALYST**
 ---
 
  🔍 **Summary**
@@ -49,5 +49,10 @@ In my current role as a Data Analyst at QSS Global LLP, I have:
 🔗 [LinkedIn](https://www.linkedin.com/in/dakshb/)
 
 📧: bhatnagar91@gmail.com
+
+
+📄 **Resume**
+
+- [Download](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)
 
 ---
