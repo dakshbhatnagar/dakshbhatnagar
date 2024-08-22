@@ -37,15 +37,16 @@ In my current role as a Data Analyst at QSS Global LLP, I have:
 
  📈 **Recent Projects**
 
-1. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
+ 
+1. **Olympics Data Analysis and much more using Python**: Find projects on in-depth ARIMA Modelling, Olympics Data Analysis and much more! Check it out [here](https://github.com/dakshbhatnagar/projects)
+
+2. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
    
-2. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756) 
-   
-3. **Tableau Tales**: Using the power of data visualization with Tableau! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
+3. **Tableau Tales**: Using the power of data visualization with Tableau and explore insights on COVID-19, Digital Payment Trends in India and more! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
    
 4. **SQL Projects on HR Data, Restaurant Data and more** : The [repository](https://github.com/dakshbhatnagar/SQLProjects) contains SQL Projects on various industries such as HR, Food and Data Jobs to uncover valuable insights. Make your way to it to explore in-depth.
  
-5. **Olympics Data Analysis and much more using Python**: Find projects on in-depth ARIMA Modelling, Olympics Data Analysis and much more! Check it out [here](https://github.com/dakshbhatnagar/projects) 
+5. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756)  
   
 ---
 
@@ -57,4 +58,4 @@ In my current role as a Data Analyst at QSS Global LLP, I have:
 
 ---
 
-Thanks for stopping by. Please feel free to *[download my resume](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)*
+Thanks for stopping by. Please feel free to *[view my resume](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)*
