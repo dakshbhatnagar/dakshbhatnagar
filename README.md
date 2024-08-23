@@ -5,6 +5,9 @@
 
 <h3>🔍 About Me</h3>
 <ul>
+  <li>Hi, My Name is Daksh Bhatnagar. <strong>A Finance Post Graduate and a Data Analyst</strong> with 1.5+ Years Of Experience based out of New Delhi. </li>
+  <br>
+
   <li>I’m passionate about <strong>empowering businesses with data-driven insights</strong> through effective analysis and comprehensive reporting.</li>
   <br>
   <li>My core focus is on <strong>transforming complex data into actionable strategies</strong> that drive decision-making, along with implementing automated solutions that enhance efficiency and cut costs.</li>
@@ -28,19 +31,29 @@
     <td><strong>Spreadsheets:</strong></td>
     <td>Advanced MS Excel, Advanced Google Sheets</td>
   </tr>
+
+  
   <tr>
     <td><strong>Programming:</strong></td>
-    <td>Python, Pandas, Numpy, Matplotlib, Google AppScript</td>
+    <td><a href="https://github.com/dakshbhatnagar/projects"> Python, Pandas, Numpy, Matplotlib</a> Google AppScript</td>
+
   </tr>
   <tr>
     <td><strong>BI Tools:</strong></td>
-    <td>Looker Studio, Tableau</td>
+    <td><a href="https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd">Looker Studio</a>, <a href="https://public.tableau.com/app/profile/daksh.bhatnagar/vizzes">Tableau</a></td>
   </tr>
   <tr>
     <td><strong>Cloud:</strong></td>
     <td>Google Cloud Platform (GCP)</td>
   </tr>
 </table>
+
+
+<h3>🏆 Achievement</h3>
+
+Earned the prestigious notebooks master medal on [Kaggle](https://www.kaggle.com/bhatnagardaksh)
+
+![image](Kaggle.png)
 
 <hr>
 
@@ -76,11 +89,12 @@
 <ol>
   <li><strong>Olympics Data Analysis and more using Python:</strong> Find projects on in-depth ARIMA Modelling, Olympics Data Analysis, and more! Check it out <a href="https://github.com/dakshbhatnagar/projects">here</a>.</li>
 
+
+  <li><strong>SQL Projects on HR Data, Restaurant Data, and more:</strong> The <a href="https://github.com/dakshbhatnagar/SQLProjects">repository</a> contains SQL Projects in various industries such as HR, Food, and Data Jobs to uncover valuable insights.</li>
+
   <li><strong>Maximizing Sales Conversions:</strong> A Looker Studio Dashboard that goes in-depth on how a travel company can maximize their Sales Conversion - <a href="https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd">Link</a>.</li>
 
   <li><strong>Tableau Tales:</strong> Explore insights on COVID-19, Digital Payment Trends in India, and more with Tableau - <a href="https://public.tableau.com/app/profile/daksh.bhatnagar">Take a peek here</a>.</li>
-
-  <li><strong>SQL Projects on HR Data, Restaurant Data, and more:</strong> The <a href="https://github.com/dakshbhatnagar/SQLProjects">repository</a> contains SQL Projects in various industries such as HR, Food, and Data Jobs to uncover valuable insights.</li>
 
   <li><strong>Finding Interesting Insights about Super Store:</strong> Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio - <a href="https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756">Check it out here</a>.</li>
 </ol>
@@ -95,4 +109,5 @@
 
 <hr>
 
-<p align="center"><strong>Thanks for stopping by!</strong></p>
+<i>
+<p align="center">Thanks for stopping by!</p></i>
