@@ -47,7 +47,7 @@
     <td>Google Cloud Platform (GCP)</td>
   </tr>
 </table>
-
+<hr>
 
 <h3>🏆 Achievement</h3>
 
