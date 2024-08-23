@@ -10,6 +10,8 @@ DAKSH BHATNAGAR
 - With a sound understanding of analytics tools, I’ve spent countless hours **optimizing processes, enhancing data accessibility**, and improving overall efficiency.
 ---
 
+Please feel free to *[view my resume](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)*
+
 ## 🛠️ Skills
 
 - **Databases:** MySQL, SQLite3
@@ -58,4 +60,4 @@ In my current role as a Data Analyst at QSS Global LLP, I have:
 
 ---
 
-Thanks for stopping by. Please feel free to *[view my resume](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)*
+Thanks for stopping by. 
