@@ -1,63 +1,98 @@
-🕵🏼 **DATA ANALYST | BI ANALYST | REPORTING ANALYST**
+<h1 align="center">🕵🏼 Daksh Bhatnagar</h1>
 
-DAKSH BHATNAGAR
----
-
- 🔍 **Summary**
-
-- I specialize in **helping businesses unlock valuable insights** through data analysis and reporting.
-- My work focuses on **delivering actionable insights** that drive informed decisions and implementing automated reporting solutions that save time and reduce costs.
-- With a sound understanding of analytics tools, I’ve spent countless hours **optimizing processes, enhancing data accessibility**, and improving overall efficiency.
----
-
-Please feel free to *[view my resume](https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view)*
-
-## 🛠️ Skills
-
-- **Databases:** MySQL, SQLite3
-- **Spreadsheets:** Advanced MS Excel, Advanced Google Sheets
-- **Programming:** Python, Pandas, Numpy, Matplotlib, Google AppScript
-- **BI Tools:** Looker Studio, Tableau
-- **Cloud:** Google Cloud Platform (GCP)
-
----
+<h2 align="center">Data Analyst | Reporting Analyst | BI Analyst</h2>
 
 
-👨‍💻 **Experience**
+<h3>🔍 About Me</h3>
+<ul>
+  <li>I’m passionate about <strong>empowering businesses with data-driven insights</strong> through effective analysis and comprehensive reporting.</li>
+  <br>
+  <li>My core focus is on <strong>transforming complex data into actionable strategies</strong> that drive decision-making, along with implementing automated solutions that enhance efficiency and cut costs.</li>
+  <br>
+  <li>With a sound understanding of analytics tools, I’ve dedicated my efforts to <strong>streamlining processes, boosting data accessibility</strong>, and continuously improving operational performance.</li>
+</ul>
 
-In my current role as a Data Analyst at QSS Global LLP, I have:
+<p align="center">
+  📄 <a href="https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view"><strong>View my resume</strong></a>
+</p>
 
-- Developed **real-time data pipelines** using Google Sheets, increasing data availability and decision-making efficiency by 20%.
-- Created **engaging visualizations** in Looker Studio, improving data accessibility by 15%.
-- **Reduced subscription costs** by 68,000 INR per month through job portal monitoring, saving 816,000 INR annually.
-- **Automated reporting processes** using Google AppScript and Python, improving operational efficiency and reporting frequency by 30%.
-- Streamlined **appraisal document creation** with AppScript, organizing them for team distribution.
-- Used SQL within Python to connect with the Google Sheets API, calculating incentives for Recruiters, Team Leaders, and Account Managers monthly and quarterly **reducing workload on team members**.
+<hr>
 
----
+<h3>🛠️ Skills</h3>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><strong>Databases:</strong></td>
+    <td>MySQL, SQLite3</td>
+  </tr>
+  <tr>
+    <td><strong>Spreadsheets:</strong></td>
+    <td>Advanced MS Excel, Advanced Google Sheets</td>
+  </tr>
+  <tr>
+    <td><strong>Programming:</strong></td>
+    <td>Python, Pandas, Numpy, Matplotlib, Google AppScript</td>
+  </tr>
+  <tr>
+    <td><strong>BI Tools:</strong></td>
+    <td>Looker Studio, Tableau</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud:</strong></td>
+    <td>Google Cloud Platform (GCP)</td>
+  </tr>
+</table>
 
+<hr>
 
- 📈 **Recent Projects**
+<h3>👨‍💻 Experience</h3>
+<p>In my current role as a Data Analyst at QSS Global LLP, I have:</p>
+<ul>
+  <li>
+    Developed <strong>real-time data pipelines</strong> using Google Sheets, which increased data availability and decision-making efficiency by 20%.
+  </li>
+  <li>
+    Enhanced stakeholder data comprehension by 15% by creating <strong>engaging visualizations</strong> using Looker Studio.
+  </li>
+  <li>
+    Addressed rising subscription costs by identifying inefficiencies after monitoring job portal usage, leading to a <strong>reduction of 68,000 INR per month</strong>, saving the company 816,000 INR annually.
+  </li>
+  <li>
+    Improved operational efficiency and reporting frequency by 30% by <strong>automating reporting processes</strong> using Google AppScript and Python, reducing an hour worth of daily manual work.
+  </li>
+  <li>
+    <strong>Streamlined the appraisal document creation</strong> process by implementing an automated solution using AppScript, ensuring timely and organized document distribution for the team.
+  </li>
+  <li>
+    Reduced 10-12 hours a week worth of workload and improved accuracy in incentive calculations by <strong>automating monthly and quarterly computations</strong> for Recruiters, Team Leaders, and Account Managers using SQL within Python, integrated with the Google Sheets API.
+  </li>
+  <li>
+  <strong>Centralized and updated scattered service agreement data</strong> in Google Sheets, highlighted expired records with Conditional Formatting, and automated follow-up alerts and mail reports using Google AppScript, resulting in 60% improved data accessibility and proactive management.
+  </li>
+</ul>
 
- 
-1. **Olympics Data Analysis and much more using Python**: Find projects on in-depth ARIMA Modelling, Olympics Data Analysis and much more! Check it out [here](https://github.com/dakshbhatnagar/projects)
+<hr>
 
-2. **Maximizing Sales Conversions** : A Looker Studio Dashboard that goes into depth of how a travel company can maximise their Sales Conversion - [Link](https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd)
-   
-3. **Tableau Tales**: Using the power of data visualization with Tableau and explore insights on COVID-19, Digital Payment Trends in India and more! Take a peak [here](https://public.tableau.com/app/profile/daksh.bhatnagar) 
-   
-4. **SQL Projects on HR Data, Restaurant Data and more** : The [repository](https://github.com/dakshbhatnagar/SQLProjects) contains SQL Projects on various industries such as HR, Food and Data Jobs to uncover valuable insights. Make your way to it to explore in-depth.
- 
-5. **Finding Interesting Insights about Super Store**: Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio [here](https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756)  
-  
----
+<h3>📈 Recent Personal Projects</h3>
+<ol>
+  <li><strong>Olympics Data Analysis and more using Python:</strong> Find projects on in-depth ARIMA Modelling, Olympics Data Analysis, and more! Check it out <a href="https://github.com/dakshbhatnagar/projects">here</a>.</li>
 
-📇 **Contact Details**
+  <li><strong>Maximizing Sales Conversions:</strong> A Looker Studio Dashboard that goes in-depth on how a travel company can maximize their Sales Conversion - <a href="https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd">Link</a>.</li>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/dakshb/)
+  <li><strong>Tableau Tales:</strong> Explore insights on COVID-19, Digital Payment Trends in India, and more with Tableau - <a href="https://public.tableau.com/app/profile/daksh.bhatnagar">Take a peek here</a>.</li>
 
-📧: bhatnagar91@gmail.com
+  <li><strong>SQL Projects on HR Data, Restaurant Data, and more:</strong> The <a href="https://github.com/dakshbhatnagar/SQLProjects">repository</a> contains SQL Projects in various industries such as HR, Food, and Data Jobs to uncover valuable insights.</li>
 
----
+  <li><strong>Finding Interesting Insights about Super Store:</strong> Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio - <a href="https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756">Check it out here</a>.</li>
+</ol>
 
-Thanks for stopping by. 
+<hr>
+
+<h3>📇 Contact Details</h3>
+<p>
+  <strong>🔗 <a href="https://www.linkedin.com/in/dakshb/">LinkedIn</a></strong><br>
+  <span>📧: <a href="mailto:bhatnagar91@gmail.com">bhatnagar91@gmail.com</a></span>
+</p>
+
+<hr>
+
+<p align="center"><strong>Thanks for stopping by!</strong></p>
