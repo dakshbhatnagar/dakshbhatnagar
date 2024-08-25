@@ -88,14 +88,14 @@ Earned the prestigious notebooks master medal on [Kaggle](https://www.kaggle.com
 <h3>📈 Recent Personal Projects</h3>
 <ol>
   <li><strong>Olympics Data Analysis and more using Python:</strong> Find projects on in-depth ARIMA Modelling, Olympics Data Analysis, and more! Check it out <a href="https://github.com/dakshbhatnagar/projects">here</a>.</li>
-
+<br>
 
   <li><strong>SQL Projects on HR Data, Restaurant Data, and more:</strong> The <a href="https://github.com/dakshbhatnagar/SQLProjects">repository</a> contains SQL Projects in various industries such as HR, Food, and Data Jobs to uncover valuable insights.</li>
-
+<br>
   <li><strong>Maximizing Sales Conversions:</strong> A Looker Studio Dashboard that goes in-depth on how a travel company can maximize their Sales Conversion - <a href="https://lookerstudio.google.com/reporting/cc4ee68d-2634-4110-8652-811626ea9b05/page/p_4qnx3lohhd">Link</a>.</li>
-
+<br>
   <li><strong>Tableau Tales:</strong> Explore insights on COVID-19, Digital Payment Trends in India, and more with Tableau - <a href="https://public.tableau.com/app/profile/daksh.bhatnagar">Take a peek here</a>.</li>
-
+<br>
   <li><strong>Finding Interesting Insights about Super Store:</strong> Dive deep into the world of retail store analysis done using Google Sheets and Looker Studio - <a href="https://docs.google.com/spreadsheets/d/14h0UCZOhi1nQx7oT7DY8SYmqp3S0Y5UssEjkGAuVgXo/edit#gid=312503756">Check it out here</a>.</li>
 </ol>
 
