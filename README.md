@@ -19,6 +19,10 @@
   📄 <a href="https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view"><strong>View my resume</strong></a>
 </p>
 
+<p align="center">
+  💼 <a href="https://dakshbhatnagar.github.io"><strong>Portfolio Website</strong></a>
+</p>
+
 <hr>
 
 <h3>🛠️ Skills</h3>
