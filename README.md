@@ -16,7 +16,7 @@
 </ul>
 
 <p align="center">
-  📄 <a href="https://drive.google.com/file/d/1M2PYWuYh-p8yFBJ5ta00iKHO1tDZieJy/view"><strong>View my resume</strong></a>
+  📄 <a href="https://drive.google.com/file/d/1T_ECWEI572Tp9Wsu7W_HvYZVtc2V4D2I/view?usp=sharing"><strong>View my resume</strong></a>
 </p>
 
 <p align="center">
