@@ -62,7 +62,7 @@ Earned the prestigious notebooks master medal on [Kaggle](https://www.kaggle.com
 <hr>
 
 <h3>👨‍💻 Experience</h3>
-<p>In my current role as a Data Analyst at QSS Global LLP, I have:</p>
+<p>In my current role as a Data Analyst, I have:</p>
 <ul>
   <li>
     Developed <strong>real-time data pipelines</strong> using Google Sheets, which increased data availability and decision-making efficiency by 20%.
