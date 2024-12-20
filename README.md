@@ -61,6 +61,13 @@ Earned the prestigious notebooks master medal on [Kaggle](https://www.kaggle.com
 
 <hr>
 
+
+## GitHub Stats
+
+![Daksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dakshbhatnagar&show_icons=true&theme=radical)
+
+<hr>
+
 <h3>👨‍💻 Experience</h3>
 <p>In my current role as a Data Analyst, I have:</p>
 <ul>
