@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td><strong>Cloud:</strong></td>
-    <td>Google Cloud Platform (GCP)</td>
+    <td>Google Cloud Platform (GCP), AWS S3 </td>
   </tr>
 </table>
 <hr>
