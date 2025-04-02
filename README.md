@@ -16,10 +16,6 @@
 </ul>
 
 <p align="center">
-  📄 <a href="https://drive.google.com/file/d/1vMeMSfpfOp5g9ngIN3teWe1NcD0LoiLo/view?usp=sharing"><strong>View my resume</strong></a>
-</p>
-
-<p align="center">
   💼 <a href="https://dakshbhatnagar.github.io"><strong>Portfolio Website</strong></a>
 </p>
 
