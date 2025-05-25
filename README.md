@@ -5,7 +5,7 @@
 
 <h3>🔍 About Me</h3>
 <ul>
-  <li>Hi, My Name is Daksh Bhatnagar. <strong>A Finance Post Graduate and a Data Analyst</strong> with 2 Years Of Experience based out of New Delhi currently working as Technology Associate in ZS Associates, Gurgaon. </li>
+  <li>Hi, My Name is Daksh Bhatnagar. <strong>A Finance Post Graduate and a Data Analyst</strong> with 2 Years Of Experience based out of New Delhi currently working as Decision Analytics Associate in ZS Associates, Gurgaon. </li>
   <br>
 
   <li>I’m passionate about <strong>empowering businesses with data-driven insights</strong> through effective analysis and comprehensive reporting.</li>
